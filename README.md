@@ -16,5 +16,4 @@ https://erickenji.github.io/scheduler
 ## Contribution
 Made by Eric Furukawa
 
-
-
+![workday](https://user-images.githubusercontent.com/16628477/140655715-fe5e1e04-b34e-46c3-8592-ac6187896a56.png)
