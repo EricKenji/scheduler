@@ -50,3 +50,5 @@ $( document ).ready(function() {
     // call time color function
     timeColor();
 });
+
+// test
